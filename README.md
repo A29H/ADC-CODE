@@ -9,7 +9,7 @@ ADC Code for EE318 Project 2025
 #include "pin_mux.h"
 #include "clock_config.h"
 #include "fsl_debug_console.h"
-# include "MCXN947_cm33_core0.h"
+#include "MCXN947_cm33_core0.h"
 #include "fsl_spc.h"
 #include "fsl_clock.h"
 //#define TEST_WITHOUT_MOTOR
